@@ -239,12 +239,17 @@ input[type=submit] {
 }
 @media screen and (max-width:980px) {
 
+  body{
+    background-color: yellow;
+  }
+
 }
 
 @media screen and (max-width:768px){
 
   body{
     width: 768px;
+    background-color: red;
   }
 
 }
